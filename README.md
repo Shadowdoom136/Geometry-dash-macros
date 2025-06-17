@@ -1,2 +1,3 @@
 # Geometry-dash-macros
 Macros for automatically beating levels in the steam version of geometry dash
+To use these, you must download Geode mod menu (https://geode-sdk.org/install) and run the installer. After installing Geode, open Geometry Dash from the game files, and click on the Geode icon in the main menu. Then look up XDBot and install the program. You will then need to restart Geometry Dash, and go into any level, press pause, and press the play button in the top right corner. This is the XDbot menu. Then go back into the geometry dash folder, and enter the subfolder called macros. Paste the .gdr file you want, and then go to the according level, start it, then open the XDbot menu. Then load the macro you want, and then press play and continue the level.
